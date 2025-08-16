@@ -1,0 +1,2 @@
+This peripheral hardware interface diagram is only for reference when connecting custom peripherals. 
+If you have any customization requirements, please contact us for business negotiation at ALIENTEK.
